@@ -1,1 +1,1 @@
-# MeXE402_Finals_Almonte-RayIvanC.--Blasco-TreatySherrizahL.
+# Segmenting PASCAL VOC 2012 Dataset Variety Images Based on Contours
