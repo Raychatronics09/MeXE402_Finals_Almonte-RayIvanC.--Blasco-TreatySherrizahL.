@@ -49,26 +49,35 @@ The proponents came to the following outcomes:
 
 
 ## V. Additional Materials
-**Figure 1.1: 
+
+**Figure 1.1: The code image contains two lines, which import necessary libraries for image processing and numerical operations.**
+
 ![image](https://github.com/user-attachments/assets/a05d2979-45f5-4d68-8e7f-28431de8480b)
 
 **Figure 1.2:
+
 ![image](https://github.com/user-attachments/assets/687a1f03-dfd6-4235-a5d9-e0ef2bf73f06)
 
 **Figure 1.3:
+
 ![image](https://github.com/user-attachments/assets/84f39375-9f0a-46bb-af06-5f97b6105a63)
 
 **Figure 1.4:
+
 ![image](https://github.com/user-attachments/assets/41108d33-0c5e-45e0-8815-0d3a488e8455)
 
 **Figure 1.5:
+
 ![image](https://github.com/user-attachments/assets/b239e3f5-d894-441e-9a6f-4cd301a141c0)
 
 **Figure 1.6:
+
 ![image](https://github.com/user-attachments/assets/9c082882-ad14-401c-9d75-986a40404c8f)
 
 **Figure 1.7:
+
 ![image](https://github.com/user-attachments/assets/be4f9fae-057e-445d-9d23-937cceb0ec53)
 
 **Figure 1.8
+
 ![image](https://github.com/user-attachments/assets/4c4e6c43-54e8-43d5-9530-af1b7171fc6d)
