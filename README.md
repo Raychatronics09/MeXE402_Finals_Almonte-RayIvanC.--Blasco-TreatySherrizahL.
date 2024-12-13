@@ -50,6 +50,8 @@ The proponents came to the following outcomes:
 
 ## V. Additional Materials
 
+### Code
+
 **Figure 1.1: The code image contains two lines, which import necessary libraries for image processing and numerical operations.**
 
 ![image](https://github.com/user-attachments/assets/a05d2979-45f5-4d68-8e7f-28431de8480b)
@@ -78,6 +80,64 @@ The proponents came to the following outcomes:
 
 ![image](https://github.com/user-attachments/assets/be4f9fae-057e-445d-9d23-937cceb0ec53)
 
-**Figure 1.8 The code waits for a key press before closing all the displayed windows.**
+**Figure 1.8: The code waits for a key press before closing all the displayed windows.**
 
 ![image](https://github.com/user-attachments/assets/4c4e6c43-54e8-43d5-9530-af1b7171fc6d)
+
+### Images and Results
+
+**Figure 2.1: Test 1**
+
+![image](https://github.com/user-attachments/assets/1ec4cee3-ae3c-4a4a-85c7-f90bda1bc64b)
+
+
+**Figure 2.2: Test 2**
+
+![image](https://github.com/user-attachments/assets/19454e34-799e-4fba-a409-fa3adb22a33a)
+
+
+**Figure 2.3: Test 3**
+
+![image](https://github.com/user-attachments/assets/b5e20595-d277-421e-a4cb-1595f59170f0)
+
+
+**Figure 2.4: Test 4**
+
+![image](https://github.com/user-attachments/assets/ecd25310-5c50-4ea1-96da-6b2fd69f067f)
+
+
+**Figure 2.5: Test 5**
+
+![image](https://github.com/user-attachments/assets/f4a140af-15fc-4b65-858e-14d1106a186b)
+
+
+**Figure 2.6: Test 6**
+
+![image](https://github.com/user-attachments/assets/ff711e33-3839-48bb-a100-19f1d7ad3f51)
+
+
+**Figure 2.7: Test 7**
+
+![image](https://github.com/user-attachments/assets/150fd3c4-b24e-4ff5-b735-24cee53961eb)
+
+
+**Figure 2.8: Test 8**
+
+![image](https://github.com/user-attachments/assets/3b6bf8d7-1932-4540-966e-bf0a755b10e8)
+
+
+**Figure 2.9: Test 9**
+
+![image](https://github.com/user-attachments/assets/2513bd6a-822f-46ef-b824-f5e8cf25d74b)
+
+
+**Figure 2.10: Test 10**
+
+![image](https://github.com/user-attachments/assets/2442b2f1-e0f4-4837-a096-08499342168a)
+
+
+
+
+
+
+
