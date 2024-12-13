@@ -62,22 +62,22 @@ The proponents came to the following outcomes:
 
 ![image](https://github.com/user-attachments/assets/84f39375-9f0a-46bb-af06-5f97b6105a63)
 
-**Figure 1.4:
+**Figure 1.4: The code detects edges in the blurred image using the Canny edge detection algorithm.**
 
 ![image](https://github.com/user-attachments/assets/41108d33-0c5e-45e0-8815-0d3a488e8455)
 
-**Figure 1.5:
+**Figure 1.5: The code finds contours in the edge-detected image.**
 
 ![image](https://github.com/user-attachments/assets/b239e3f5-d894-441e-9a6f-4cd301a141c0)
 
-**Figure 1.6:
+**Figure 1.6: The code creates a blank image and draws the found contours on it in green.**
 
 ![image](https://github.com/user-attachments/assets/9c082882-ad14-401c-9d75-986a40404c8f)
 
-**Figure 1.7:
+**Figure 1.7: The code displays the original image, the edge-detected image, and the image with contours drawn on it.**
 
 ![image](https://github.com/user-attachments/assets/be4f9fae-057e-445d-9d23-937cceb0ec53)
 
-**Figure 1.8
+**Figure 1.8 The code waits for a key press before closing all the displayed windows.**
 
 ![image](https://github.com/user-attachments/assets/4c4e6c43-54e8-43d5-9530-af1b7171fc6d)
