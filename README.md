@@ -54,7 +54,7 @@ The proponents came to the following outcomes:
 
 ![image](https://github.com/user-attachments/assets/a05d2979-45f5-4d68-8e7f-28431de8480b)
 
-**Figure 1.2:
+**Figure 1.2: The code snippet loads an image and converts it to grayscale using OpenCV.**
 
 ![image](https://github.com/user-attachments/assets/687a1f03-dfd6-4235-a5d9-e0ef2bf73f06)
 
