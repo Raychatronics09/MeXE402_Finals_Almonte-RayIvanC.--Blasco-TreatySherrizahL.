@@ -58,7 +58,7 @@ The proponents came to the following outcomes:
 
 ![image](https://github.com/user-attachments/assets/687a1f03-dfd6-4235-a5d9-e0ef2bf73f06)
 
-**Figure 1.3:
+**Figure 1.3: The code applies a Gaussian blur to the grayscale image to reduce noise.**
 
 ![image](https://github.com/user-attachments/assets/84f39375-9f0a-46bb-af06-5f97b6105a63)
 
