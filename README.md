@@ -21,7 +21,32 @@ The proponents did the following steps:
 + Test the Program
 
 ## IV. Conclusion
-Summarize your findings, challenges, and outcomes.
+
+### Findings
+
+The proponents found the following during the project's development:
+
++	Contours are dependent to the edge detection
++	The more the threshold, the lesser detection
++	The blur is not adjustable based on the code due to errors
+
+### Challenges
+
+The proponents encountered the following challenges:
+
++	The proponents had a dataset but were unable to implement a form of training of data
++	The program resources were scarce due to variety of differences and uniqueness resulting in errors
++	The proponents had difficulties choosing a topic due to availability and compatibility with the topic
+
+### Outcomes
+
+The proponents came to the following outcomes:
+
++	The results of the Segmentation were satisfactory
++	The results vary per Image and adjustment
++	The desired result can be achieved with proper adjustments
+
+
 
 ## V. Additional Materials
 Include code, images, and results generated during your project.
