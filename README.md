@@ -49,4 +49,18 @@ The proponents came to the following outcomes:
 
 
 ## V. Additional Materials
-Include code, images, and results generated during your project.
+![image](https://github.com/user-attachments/assets/a05d2979-45f5-4d68-8e7f-28431de8480b)
+
+![image](https://github.com/user-attachments/assets/687a1f03-dfd6-4235-a5d9-e0ef2bf73f06)
+
+![image](https://github.com/user-attachments/assets/84f39375-9f0a-46bb-af06-5f97b6105a63)
+
+![image](https://github.com/user-attachments/assets/41108d33-0c5e-45e0-8815-0d3a488e8455)
+
+![image](https://github.com/user-attachments/assets/b239e3f5-d894-441e-9a6f-4cd301a141c0)
+
+![image](https://github.com/user-attachments/assets/9c082882-ad14-401c-9d75-986a40404c8f)
+
+![image](https://github.com/user-attachments/assets/be4f9fae-057e-445d-9d23-937cceb0ec53)
+
+![image](https://github.com/user-attachments/assets/4c4e6c43-54e8-43d5-9530-af1b7171fc6d)
