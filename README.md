@@ -135,9 +135,9 @@ The proponents came to the following outcomes:
 
 ![image](https://github.com/user-attachments/assets/2442b2f1-e0f4-4837-a096-08499342168a)
 
+### Finals Video Demonstration
 
+***Segmenting PASCAL VOC 2012 Dataset Variety Images Based on Contours | Electives 2 - Finals Demo***
 
-
-
-
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/4S6DAG0mK-Q/0.jpg)](https://www.youtube.com/watch?v=4S6DAG0mK-Q)
 
