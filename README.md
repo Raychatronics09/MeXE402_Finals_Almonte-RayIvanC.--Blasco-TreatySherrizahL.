@@ -7,7 +7,7 @@ Image segmentation is a critical task in computer vision, enabling the identific
 
 ## II. Abstract
 
-This project aims to develop a contour-based image segmentation pipeline using OpenCV to analyze and segment images from the PASCAL VOC 2012 dataset. The methodology includes preprocessing the images to enhance contours, detecting edges using techniques such as Canny Edge Detection, and leveraging OpenCV’s contour extraction functions for precise segmentation. By focusing on contours, this approach seeks to improve segmentation accuracy, especially for images with complex structures. The expected outcome is a robust segmentation framework that can be generalized to other datasets, demonstrating the potential of contour-based methods for object recognition and scene understanding.
+This project aims to develop a contour-based image segmentation using OpenCV to analyze and segment images from the PASCAL VOC 2012 dataset. The methodology includes preprocessing the images to enhance contours, detecting edges using techniques such as Canny Edge Detection, and leveraging OpenCV’s contour extraction functions for precise segmentation. By focusing on contours, this approach seeks to improve segmentation accuracy, especially for images with complex structures. The expected outcome is a robust segmentation framework that can be generalized to other datasets, demonstrating the potential of contour-based methods for object recognition and scene understanding.
 
 ## III. Project Methods
 
